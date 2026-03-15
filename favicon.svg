@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="28" fill="#081C46"/>
+  <path d="M20 88C43 81 55 72 63 58C70 45 84 35 104 30C90 44 84 56 81 64C76 77 62 89 34 95L20 88Z" fill="#E31837"/>
+  <path d="M18 80C32 83 49 83 63 78C79 73 90 64 100 50C93 68 84 80 68 89C52 98 35 98 20 90L18 80Z" fill="#178BFF"/>
+  <text x="18" y="42" fill="white" font-size="18" font-family="Arial" font-weight="800">PM</text>
+  <text x="18" y="62" fill="#FFCC22" font-size="12" font-family="Arial" font-weight="700">STORE</text>
+</svg>
